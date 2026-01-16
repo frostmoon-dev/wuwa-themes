@@ -21,29 +21,6 @@ Each theme is *pre‑configured* for its character – *simply select the theme 
 All themes are *fully configured* and *ready to use*.  
 Just pick a character theme from the VS Code color‑theme picker – *no further tweaks are required.*
 
-## ☁ Screenshots
-
-### Light Themes
-
-| Jinhsi | Changli | Camellya |
-|:---:|:---:|:---:|
-| ![Jinhsi](assets/jinhsi.png) | ![Changli](assets/changli.png) | ![Camellya](assets/camellya.png) |
-
-| Rover | Phoebe | Brant |
-|:---:|:---:|:---:|
-| ![Rover](assets/rover.png) | ![Phoebe](assets/phoebe.png) | ![Brant](assets/brant.png) |
-
-| Carlotta | Cartethyia | Iuno |
-|:---:|:---:|:---:|
-| ![Carlotta](assets/carlotta.png) | ![Cartethyia](assets/cartethyia.png) | ![Iuno](assets/iuno.png) |
-
-### Dark Themes
-
-| Jinhsi (Dark) | Changli (Dark) | Camellya (Dark) |
-|:---:|:---:|:---:|
-| ![Jinhsi Dark](assets/jinhsi-dark.png) | ![Changli Dark](assets/changli-dark.png) | ![Camellya Dark](assets/camellya-dark.png) |
-
-
 ## ☁ License
 
 MIT
