@@ -1,0 +1,162 @@
+{
+    "name": "Wuthering Waves : The Shorekeeper (Dark)",
+    "colors": {
+        "editor.background": "#0A1418",
+        "editor.foreground": "#E0F0F8",
+        "list.activeSelectionIconForeground": "#0A1418",
+        "list.activeSelectionBackground": "#00C0E0",
+        "list.activeSelectionForeground": "#0A1418",
+        "list.hoverBackground": "#142028",
+        "list.focusBackground": "#1E2C34",
+        "list.inactiveSelectionBackground": "#1E2C34",
+        "list.inactiveSelectionForeground": "#B0A8A8",
+        "sideBar.background": "#061014",
+        "sideBar.foreground": "#B0A8A8",
+        "sideBarTitle.foreground": "#40D8F0",
+        "sideBarSectionHeader.background": "#142028",
+        "sideBarSectionHeader.foreground": "#E0F0F8",
+        "activityBar.background": "#061014",
+        "activityBar.foreground": "#ffffff",
+        "activityBar.inactiveForeground": "#507888",
+        "activityBarBadge.background": "#00C0E0",
+        "activityBarBadge.foreground": "#0A1418",
+        "statusBar.background": "#00A8C8",
+        "statusBar.foreground": "#ffffff",
+        "statusBar.debuggingBackground": "#8080C0",
+        "statusBar.debuggingForeground": "#ffffff",
+        "statusBar.noFolderBackground": "#142028",
+        "statusBar.noFolderForeground": "#ffffff",
+        "titleBar.activeBackground": "#061014",
+        "titleBar.activeForeground": "#E0F0F8",
+        "titleBar.inactiveBackground": "#0A1418",
+        "titleBar.inactiveForeground": "#507888",
+        "tab.activeBackground": "#0A1418",
+        "tab.activeForeground": "#40D8F0",
+        "tab.activeBorder": "#00C0E0",
+        "tab.inactiveBackground": "#061014",
+        "tab.inactiveForeground": "#507888",
+        "tab.border": "#142028",
+        "editorGroupHeader.tabsBackground": "#061014",
+        "editorLineNumber.foreground": "#305060",
+        "editorLineNumber.activeForeground": "#40D8F0",
+        "editorCursor.foreground": "#00C0E0",
+        "editor.selectionBackground": "#00C0E040",
+        "editor.lineHighlightBackground": "#142028",
+        "editorWidget.background": "#142028",
+        "editorWidget.foreground": "#E0F0F8",
+        "editorSuggestWidget.background": "#0A1418",
+        "editorSuggestWidget.highlightForeground": "#40D8F0",
+        "editorBracketMatch.border": "#8080C0",
+        "editorIndentGuide.background1": "#1E2C34",
+        "editorGutter.addedBackground": "#60A090",
+        "editorGutter.modifiedBackground": "#8080C0",
+        "editorGutter.deletedBackground": "#C06080",
+        "input.background": "#061014",
+        "input.foreground": "#E0F0F8",
+        "input.border": "#1E2C34",
+        "button.background": "#00C0E0",
+        "button.foreground": "#0A1418",
+        "badge.background": "#00C0E0",
+        "badge.foreground": "#0A1418",
+        "progressBar.background": "#40D8F0",
+        "terminal.background": "#0A1418",
+        "terminal.foreground": "#E0F0F8",
+        "terminal.ansiCyan": "#00C0E0",
+        "panel.background": "#061014",
+        "panelTitle.activeBorder": "#00C0E0",
+        "focusBorder": "#00C0E080",
+        "textLink.foreground": "#40D8F0",
+        "errorForeground": "#C06080"
+    },
+    "tokenColors": [
+        {
+            "name": "Comments",
+            "scope": [
+                "comment"
+            ],
+            "settings": {
+                "fontStyle": "italic",
+                "foreground": "#406878"
+            }
+        },
+        {
+            "name": "Keywords",
+            "scope": [
+                "keyword",
+                "storage"
+            ],
+            "settings": {
+                "foreground": "#40D8F0"
+            }
+        },
+        {
+            "name": "Types",
+            "scope": [
+                "storage.type",
+                "support.type"
+            ],
+            "settings": {
+                "foreground": "#8080C0"
+            }
+        },
+        {
+            "name": "Variables",
+            "scope": [
+                "variable"
+            ],
+            "settings": {
+                "foreground": "#E0F0F8"
+            }
+        },
+        {
+            "name": "Functions",
+            "scope": [
+                "entity.name.function"
+            ],
+            "settings": {
+                "fontStyle": "bold",
+                "foreground": "#00C0E0"
+            }
+        },
+        {
+            "name": "Classes",
+            "scope": [
+                "entity.name.type"
+            ],
+            "settings": {
+                "fontStyle": "bold",
+                "foreground": "#8080C0"
+            }
+        },
+        {
+            "name": "Numbers",
+            "scope": [
+                "constant.numeric"
+            ],
+            "settings": {
+                "foreground": "#60B0D0"
+            }
+        },
+        {
+            "name": "Strings",
+            "scope": "string",
+            "settings": {
+                "foreground": "#80A0B0"
+            }
+        },
+        {
+            "name": "Punctuation",
+            "scope": "punctuation",
+            "settings": {
+                "foreground": "#608090"
+            }
+        },
+        {
+            "name": "HTML Tags",
+            "scope": "entity.name.tag",
+            "settings": {
+                "foreground": "#40D8F0"
+            }
+        }
+    ]
+}

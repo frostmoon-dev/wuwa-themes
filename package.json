@@ -1,0 +1,118 @@
+{
+    "name": "wuwa-themes",
+    "displayName": "Wuthering Waves Themes",
+    "description": "VS Code color themes inspired by Wuthering Waves characters.",
+    "version": "1.0.1",
+    "publisher": "frostmoon-dev",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Wuthering Waves : Brant",
+                "uiTheme": "vs",
+                "path": "./themes/brant-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Camellya",
+                "uiTheme": "vs",
+                "path": "./themes/camellya-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Carlotta",
+                "uiTheme": "vs",
+                "path": "./themes/carlotta-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Cartethyia",
+                "uiTheme": "vs",
+                "path": "./themes/cartethyia-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Changli",
+                "uiTheme": "vs",
+                "path": "./themes/changli-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Iuno",
+                "uiTheme": "vs",
+                "path": "./themes/iuno-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Jinhsi",
+                "uiTheme": "vs",
+                "path": "./themes/jinhsi-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Phoebe",
+                "uiTheme": "vs",
+                "path": "./themes/phoebe-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Rover",
+                "uiTheme": "vs",
+                "path": "./themes/rover-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : The Shorekeeper",
+                "uiTheme": "vs",
+                "path": "./themes/the-shorekeeper-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Brant (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/brant-dark-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Camellya (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/camellya-dark-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Carlotta (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/carlotta-dark-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Cartethyia (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cartethyia-dark-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Changli (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/changli-dark-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Iuno (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/iuno-dark-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Jinhsi (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/jinhsi-dark-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Phoebe (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/phoebe-dark-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Rover (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/rover-dark-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : The Shorekeeper (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/the-shorekeeper-dark-color-theme.json"
+            }
+        ]
+    }
+}
