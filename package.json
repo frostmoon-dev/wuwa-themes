@@ -2,8 +2,12 @@
     "name": "wuwa-themes",
     "displayName": "Wuthering Waves Themes",
     "description": "VS Code color themes inspired by Wuthering Waves characters.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "frostmoon-dev",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/frostmoon-dev/wuwa-themes.git"
+    },
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.60.0"
