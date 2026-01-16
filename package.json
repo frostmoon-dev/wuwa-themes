@@ -2,7 +2,7 @@
     "name": "wuwa-themes",
     "displayName": "Wuthering Waves Themes",
     "description": "VS Code color themes inspired by Wuthering Waves characters.",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "publisher": "frostmoon-dev",
     "repository": {
         "type": "git",
@@ -18,6 +18,11 @@
     "contributes": {
         "themes": [
             {
+                "label": "Wuthering Waves : Jinhsi",
+                "uiTheme": "vs",
+                "path": "./themes/jinhsi-color-theme.json"
+            },
+            {
                 "label": "Wuthering Waves : Brant",
                 "uiTheme": "vs",
                 "path": "./themes/brant-color-theme.json"
@@ -26,6 +31,11 @@
                 "label": "Wuthering Waves : Camellya",
                 "uiTheme": "vs",
                 "path": "./themes/camellya-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Cantarella",
+                "uiTheme": "vs",
+                "path": "./themes/cantarella-color-theme.json"
             },
             {
                 "label": "Wuthering Waves : Carlotta",
@@ -43,14 +53,24 @@
                 "path": "./themes/changli-color-theme.json"
             },
             {
+                "label": "Wuthering Waves : Ciaccona",
+                "uiTheme": "vs",
+                "path": "./themes/ciaccona-color-theme.json"
+            },
+            {
                 "label": "Wuthering Waves : Iuno",
                 "uiTheme": "vs",
                 "path": "./themes/iuno-color-theme.json"
             },
             {
-                "label": "Wuthering Waves : Jinhsi",
+                "label": "Wuthering Waves : Jiyan",
                 "uiTheme": "vs",
-                "path": "./themes/jinhsi-color-theme.json"
+                "path": "./themes/jiyan-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Lynae",
+                "uiTheme": "vs",
+                "path": "./themes/lynae-color-theme.json"
             },
             {
                 "label": "Wuthering Waves : Phoebe",
@@ -58,14 +78,29 @@
                 "path": "./themes/phoebe-color-theme.json"
             },
             {
+                "label": "Wuthering Waves : Phrolova",
+                "uiTheme": "vs",
+                "path": "./themes/phrolova-color-theme.json"
+            },
+            {
                 "label": "Wuthering Waves : Rover",
                 "uiTheme": "vs",
                 "path": "./themes/rover-color-theme.json"
             },
             {
+                "label": "Wuthering Waves : Scar",
+                "uiTheme": "vs",
+                "path": "./themes/scar-color-theme.json"
+            },
+            {
                 "label": "Wuthering Waves : The Shorekeeper",
                 "uiTheme": "vs",
                 "path": "./themes/the-shorekeeper-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Xiangli Yao",
+                "uiTheme": "vs",
+                "path": "./themes/xiangli-yao-color-theme.json"
             },
             {
                 "label": "Wuthering Waves : Brant (Dark)",
@@ -76,6 +111,11 @@
                 "label": "Wuthering Waves : Camellya (Dark)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/camellya-dark-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Cantarella (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cantarella-dark-color-theme.json"
             },
             {
                 "label": "Wuthering Waves : Carlotta (Dark)",
@@ -93,9 +133,19 @@
                 "path": "./themes/changli-dark-color-theme.json"
             },
             {
+                "label": "Wuthering Waves : Ciaccona (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ciaccona-dark-color-theme.json"
+            },
+            {
                 "label": "Wuthering Waves : Iuno (Dark)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/iuno-dark-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Jiyan (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/jiyan-dark-color-theme.json"
             },
             {
                 "label": "Wuthering Waves : Jinhsi (Dark)",
@@ -103,9 +153,19 @@
                 "path": "./themes/jinhsi-dark-color-theme.json"
             },
             {
+                "label": "Wuthering Waves : Lynae (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lynae-dark-color-theme.json"
+            },
+            {
                 "label": "Wuthering Waves : Phoebe (Dark)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/phoebe-dark-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Phrolova (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/phrolova-dark-color-theme.json"
             },
             {
                 "label": "Wuthering Waves : Rover (Dark)",
@@ -113,9 +173,19 @@
                 "path": "./themes/rover-dark-color-theme.json"
             },
             {
+                "label": "Wuthering Waves : Scar (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/scar-dark-color-theme.json"
+            },
+            {
                 "label": "Wuthering Waves : The Shorekeeper (Dark)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/the-shorekeeper-dark-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Xiangli Yao (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/xiangli-yao-dark-color-theme.json"
             }
         ]
     }

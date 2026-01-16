@@ -1,0 +1,87 @@
+{
+    "name": "Wuthering Waves : Xiangli Yao (Dark)",
+    "colors": {
+        "editor.background": "#1E1E22",
+        "editor.foreground": "#dbd7d5",
+        "list.activeSelectionBackground": "#3e4673",
+        "list.activeSelectionForeground": "#dbd7d5",
+        "list.hoverBackground": "#28282E",
+        "sideBar.background": "#181820",
+        "sideBar.foreground": "#A8A8B0",
+        "sideBarTitle.foreground": "#5060A0",
+        "activityBar.background": "#141418",
+        "activityBar.foreground": "#dbd7d5",
+        "activityBarBadge.background": "#3e4673",
+        "statusBar.background": "#3e4673",
+        "statusBar.foreground": "#dbd7d5",
+        "titleBar.activeBackground": "#141418",
+        "titleBar.activeForeground": "#dbd7d5",
+        "tab.activeBackground": "#1E1E22",
+        "tab.activeBorder": "#5060A0",
+        "tab.inactiveBackground": "#181820",
+        "editorLineNumber.foreground": "#504f53",
+        "editorCursor.foreground": "#5060A0",
+        "editor.selectionBackground": "#3e467340",
+        "button.background": "#3e4673",
+        "button.foreground": "#dbd7d5",
+        "focusBorder": "#3e467380",
+        "textLink.foreground": "#6070B0"
+    },
+    "tokenColors": [
+        {
+            "name": "Comments",
+            "scope": "comment",
+            "settings": {
+                "fontStyle": "italic",
+                "foreground": "#5A5A68"
+            }
+        },
+        {
+            "name": "Keywords",
+            "scope": [
+                "keyword",
+                "storage"
+            ],
+            "settings": {
+                "foreground": "#6070B0"
+            }
+        },
+        {
+            "name": "Strings",
+            "scope": "string",
+            "settings": {
+                "foreground": "#7A9090"
+            }
+        },
+        {
+            "name": "Numbers",
+            "scope": "constant.numeric",
+            "settings": {
+                "foreground": "#878690"
+            }
+        },
+        {
+            "name": "Functions",
+            "scope": "entity.name.function",
+            "settings": {
+                "fontStyle": "bold",
+                "foreground": "#6070B0"
+            }
+        },
+        {
+            "name": "Variables",
+            "scope": "variable",
+            "settings": {
+                "foreground": "#dbd7d5"
+            }
+        },
+        {
+            "name": "Classes",
+            "scope": "entity.name.type",
+            "settings": {
+                "fontStyle": "bold",
+                "foreground": "#7080C0"
+            }
+        }
+    ]
+}
