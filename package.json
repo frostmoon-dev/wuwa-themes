@@ -18,14 +18,29 @@
     "contributes": {
         "themes": [
             {
-                "label": "Wuthering Waves : Jinhsi",
+                "label": "Wuthering Waves : Aemeath",
                 "uiTheme": "vs",
-                "path": "./themes/jinhsi-color-theme.json"
+                "path": "./themes/aemeath-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Augusta",
+                "uiTheme": "vs",
+                "path": "./themes/augusta-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Baizhi",
+                "uiTheme": "vs",
+                "path": "./themes/baizhi-color-theme.json"
             },
             {
                 "label": "Wuthering Waves : Brant",
                 "uiTheme": "vs",
                 "path": "./themes/brant-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Jinhsi",
+                "uiTheme": "vs",
+                "path": "./themes/jinhsi-color-theme.json"
             },
             {
                 "label": "Wuthering Waves : Camellya",
@@ -53,9 +68,19 @@
                 "path": "./themes/changli-color-theme.json"
             },
             {
+                "label": "Wuthering Waves : Chisa",
+                "uiTheme": "vs",
+                "path": "./themes/chisa-color-theme.json"
+            },
+            {
                 "label": "Wuthering Waves : Ciaccona",
                 "uiTheme": "vs",
                 "path": "./themes/ciaccona-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Galbrena",
+                "uiTheme": "vs",
+                "path": "./themes/galbrena-color-theme.json"
             },
             {
                 "label": "Wuthering Waves : Iuno",
@@ -73,6 +98,11 @@
                 "path": "./themes/lynae-color-theme.json"
             },
             {
+                "label": "Wuthering Waves : Mornye",
+                "uiTheme": "vs",
+                "path": "./themes/mornye-color-theme.json"
+            },
+            {
                 "label": "Wuthering Waves : Phoebe",
                 "uiTheme": "vs",
                 "path": "./themes/phoebe-color-theme.json"
@@ -83,9 +113,19 @@
                 "path": "./themes/phrolova-color-theme.json"
             },
             {
+                "label": "Wuthering Waves : Roccia",
+                "uiTheme": "vs",
+                "path": "./themes/roccia-color-theme.json"
+            },
+            {
                 "label": "Wuthering Waves : Rover",
                 "uiTheme": "vs",
                 "path": "./themes/rover-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Sanhua",
+                "uiTheme": "vs",
+                "path": "./themes/sanhua-color-theme.json"
             },
             {
                 "label": "Wuthering Waves : Scar",
@@ -93,14 +133,49 @@
                 "path": "./themes/scar-color-theme.json"
             },
             {
+                "label": "Wuthering Waves : Taoqi",
+                "uiTheme": "vs",
+                "path": "./themes/taoqi-color-theme.json"
+            },
+            {
                 "label": "Wuthering Waves : The Shorekeeper",
                 "uiTheme": "vs",
                 "path": "./themes/the-shorekeeper-color-theme.json"
             },
             {
+                "label": "Wuthering Waves : Verina",
+                "uiTheme": "vs",
+                "path": "./themes/verina-color-theme.json"
+            },
+            {
                 "label": "Wuthering Waves : Xiangli Yao",
                 "uiTheme": "vs",
                 "path": "./themes/xiangli-yao-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Yinlin",
+                "uiTheme": "vs",
+                "path": "./themes/yinlin-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Zhezhi",
+                "uiTheme": "vs",
+                "path": "./themes/zhezhi-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Aemeath (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/aemeath-dark-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Augusta (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/augusta-dark-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Baizhi (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/baizhi-dark-color-theme.json"
             },
             {
                 "label": "Wuthering Waves : Brant (Dark)",
@@ -133,9 +208,19 @@
                 "path": "./themes/changli-dark-color-theme.json"
             },
             {
+                "label": "Wuthering Waves : Chisa (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/chisa-dark-color-theme.json"
+            },
+            {
                 "label": "Wuthering Waves : Ciaccona (Dark)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/ciaccona-dark-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Galbrena (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/galbrena-dark-color-theme.json"
             },
             {
                 "label": "Wuthering Waves : Iuno (Dark)",
@@ -158,6 +243,11 @@
                 "path": "./themes/lynae-dark-color-theme.json"
             },
             {
+                "label": "Wuthering Waves : Mornye (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mornye-dark-color-theme.json"
+            },
+            {
                 "label": "Wuthering Waves : Phoebe (Dark)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/phoebe-dark-color-theme.json"
@@ -168,9 +258,19 @@
                 "path": "./themes/phrolova-dark-color-theme.json"
             },
             {
+                "label": "Wuthering Waves : Roccia (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/roccia-dark-color-theme.json"
+            },
+            {
                 "label": "Wuthering Waves : Rover (Dark)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/rover-dark-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Sanhua (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/sanhua-dark-color-theme.json"
             },
             {
                 "label": "Wuthering Waves : Scar (Dark)",
@@ -178,14 +278,34 @@
                 "path": "./themes/scar-dark-color-theme.json"
             },
             {
+                "label": "Wuthering Waves : Taoqi (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/taoqi-dark-color-theme.json"
+            },
+            {
                 "label": "Wuthering Waves : The Shorekeeper (Dark)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/the-shorekeeper-dark-color-theme.json"
             },
             {
+                "label": "Wuthering Waves : Verina (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/verina-dark-color-theme.json"
+            },
+            {
                 "label": "Wuthering Waves : Xiangli Yao (Dark)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/xiangli-yao-dark-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Yinlin (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/yinlin-dark-color-theme.json"
+            },
+            {
+                "label": "Wuthering Waves : Zhezhi (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zhezhi-dark-color-theme.json"
             }
         ]
     }
