@@ -1,0 +1,87 @@
+{
+    "name": "Wuthering Waves : Phrolova (Dark)",
+    "colors": {
+        "editor.background": "#2A1E1E",
+        "editor.foreground": "#b5a7a7",
+        "list.activeSelectionBackground": "#952d34",
+        "list.activeSelectionForeground": "#FCF8F7",
+        "list.hoverBackground": "#352828",
+        "sideBar.background": "#241A1A",
+        "sideBar.foreground": "#b5a7a7",
+        "sideBarTitle.foreground": "#952d34",
+        "activityBar.background": "#1E1515",
+        "activityBar.foreground": "#b5a7a7",
+        "activityBarBadge.background": "#952d34",
+        "statusBar.background": "#952d34",
+        "statusBar.foreground": "#FCF8F7",
+        "titleBar.activeBackground": "#1E1515",
+        "titleBar.activeForeground": "#b5a7a7",
+        "tab.activeBackground": "#2A1E1E",
+        "tab.activeBorder": "#952d34",
+        "tab.inactiveBackground": "#241A1A",
+        "editorLineNumber.foreground": "#6A5050",
+        "editorCursor.foreground": "#952d34",
+        "editor.selectionBackground": "#952d3440",
+        "button.background": "#952d34",
+        "button.foreground": "#FCF8F7",
+        "focusBorder": "#952d3480",
+        "textLink.foreground": "#B54048"
+    },
+    "tokenColors": [
+        {
+            "name": "Comments",
+            "scope": "comment",
+            "settings": {
+                "fontStyle": "italic",
+                "foreground": "#6A5050"
+            }
+        },
+        {
+            "name": "Keywords",
+            "scope": [
+                "keyword",
+                "storage"
+            ],
+            "settings": {
+                "foreground": "#B54048"
+            }
+        },
+        {
+            "name": "Strings",
+            "scope": "string",
+            "settings": {
+                "foreground": "#7A9A8A"
+            }
+        },
+        {
+            "name": "Numbers",
+            "scope": "constant.numeric",
+            "settings": {
+                "foreground": "#916A6C"
+            }
+        },
+        {
+            "name": "Functions",
+            "scope": "entity.name.function",
+            "settings": {
+                "fontStyle": "bold",
+                "foreground": "#B54048"
+            }
+        },
+        {
+            "name": "Variables",
+            "scope": "variable",
+            "settings": {
+                "foreground": "#b5a7a7"
+            }
+        },
+        {
+            "name": "Classes",
+            "scope": "entity.name.type",
+            "settings": {
+                "fontStyle": "bold",
+                "foreground": "#A53D44"
+            }
+        }
+    ]
+}

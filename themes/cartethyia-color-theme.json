@@ -264,10 +264,7 @@
 	"tokenColors": [
 		{
 			"name": "Comments",
-			"scope": [
-				"comment",
-				"punctuation.definition.comment"
-			],
+			"scope": "comment",
 			"settings": {
 				"fontStyle": "italic",
 				"foreground": "#7890A8"
