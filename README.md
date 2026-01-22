@@ -8,10 +8,6 @@ a **fan‑made** collection of vs code color themes inspired by the characters
 
 ##  
 
-*version 1.0.5* : new characters added — aemeath, augusta, mornye, baizhi, chisa, galbrena, phoebe, sanhua, taoqi, verina, yinlin, zhezhi
-
-##  
-
 ♡ perfect for those who want their editor to feel like their favorite wuthering waves characters.
 
 ##  
